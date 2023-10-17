@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **django, react js**
+- 💬 Ask me about **django, restApi**
 
 - 📫 How to reach me **rabeehp008@gmail.com**
 
